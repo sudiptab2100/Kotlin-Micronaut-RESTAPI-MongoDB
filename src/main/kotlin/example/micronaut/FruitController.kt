@@ -10,7 +10,7 @@ import org.reactivestreams.Publisher
 import reactor.core.publisher.Mono
 import jakarta.validation.Valid
 
-@Controller("/fruits") // <1>
+@Controller("/api/fruits") // <1>
 open class FruitController(private val fruitService: FruitRepository) { // <2>
 
     @Get("/all") // <3>
