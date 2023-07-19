@@ -1,0 +1,1 @@
+[engine:junit-jupiter]/[class:example.micronaut.FruitControllerValidationTest]/[method:testFruitIsValidated()]

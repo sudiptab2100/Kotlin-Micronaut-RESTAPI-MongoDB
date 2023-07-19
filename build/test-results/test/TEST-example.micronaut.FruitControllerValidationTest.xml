@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="example.micronaut.FruitControllerValidationTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-07-18T16:52:41" hostname="L45842WIN" time="0.248">
+  <properties/>
+  <testcase name="testFruitIsValidated()" classname="example.micronaut.FruitControllerValidationTest" time="0.248"/>
+  <system-out><![CDATA[22:22:39.932 [Test worker] INFO  i.m.c.DefaultApplicationContext$RuntimeConfiguredEnvironment - Established active environments: [test]
+22:22:40.160 [Test worker] INFO  i.m.s.ObjectMappers$ObjectMapperContext$1 - Established active environments: [test]
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
